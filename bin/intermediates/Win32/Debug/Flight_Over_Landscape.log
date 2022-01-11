@@ -1,2 +1,4 @@
 ﻿  Terrain.cpp
+E:\CPP Workspace\Flight_Over_Landscape\Flight_Over_Landscape\src\Terrain.cpp(18,105): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\CPP Workspace\Flight_Over_Landscape\Flight_Over_Landscape\src\Terrain.cpp(77,104): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
   Flight_Over_Landscape.vcxproj -> E:\CPP Workspace\Flight_Over_Landscape\bin\Win32\Debug\Flight_Over_Landscape.exe

@@ -903,6 +903,9 @@
     <ClInclude Include="src\HelpPoint.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="src\external\PerlinNoise.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="src\external\glm\detail\func_common.inl">
@@ -1359,6 +1362,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="src\HelpPoint.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="src\external\PerlinNoise.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

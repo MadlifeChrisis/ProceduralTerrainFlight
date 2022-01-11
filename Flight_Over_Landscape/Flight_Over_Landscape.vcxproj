@@ -159,6 +159,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\external\PerlinNoise.h" />
     <ClInclude Include="src\HelpPoint.h" />
     <ClInclude Include="src\external\glm\common.hpp" />
     <ClInclude Include="src\external\glm\detail\compute_common.hpp" />
@@ -599,6 +600,7 @@
     <None Include="src\external\glm\gtx\wrap.inl" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\external\PerlinNoise.cpp" />
     <ClCompile Include="src\HelpPoint.cpp" />
     <ClCompile Include="src\external\glm\detail\glm.cpp" />
     <ClCompile Include="src\external\stb_image.cpp" />
